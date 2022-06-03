@@ -1,4 +1,4 @@
-# Hello, Folks! Apoorv Here! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> ✨
+# Hello, Folks! Apoorv Here! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 5px> ✨
 - 👋 Hi, I’m @Apoorv-17
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning React-native
