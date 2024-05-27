@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React-native
 - 🤖 I'm a machine learning enthusiast.
 - 💞️ I’m looking to collaborate on app development.
-- 📫 How to reach me Amulya.ydv17@gmail.com
+- 📫 How to reach me amulyayadav.work@gmail.com
 
 <p align='center'> <h2> Connect with me  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h2> </p>
 
