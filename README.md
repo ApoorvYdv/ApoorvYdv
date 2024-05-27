@@ -1,5 +1,5 @@
 # Hello, Folks! Amulya Here! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 1px> ✨
-- 👋 Hi, I’m @Amulya-17
+- 👋 Hi, I’m Amulya Yadav
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning React-native
 - 🤖 I'm a machine learning enthusiast.
