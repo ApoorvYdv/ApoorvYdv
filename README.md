@@ -13,7 +13,7 @@
 <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'>
 </p>
 
-[![Amulya's github stats](https://github-readme-stats.vercel.app/api?username=Amulya-17&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Amulya-17/github-readme-stats)
+[![Amulya's github stats](https://github-readme-stats.vercel.app/api?username=amulya-ydv&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/amulya-ydv/github-readme-stats)
 
 
 
@@ -32,7 +32,7 @@
 
   
 <!--
-**Amulya-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**amulya-ydv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 
 <!---
-Amulya-17/Amulya-17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+amulya-ydv/amulya-ydv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
