@@ -1,15 +1,15 @@
-# Hello, Folks! Amulya Here! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 1px> ✨
-- 👋 Hi, I’m Amulya Yadav
+# Hello, Folks! Apoorv Here! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 1px> ✨
+- 👋 Hi, I’m Apoorv Yadav
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning React-native
 - 🤖 I'm a machine learning enthusiast.
 - 💞️ I’m looking to collaborate on app development.
-- 📫 How to reach me amulyayadav.work@gmail.com
+- 📫 How to reach me apoorv.ydv17@gmail.com
 
 <p align='center'> <h2> Connect with me  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h2> </p>
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/Amulya-yadav-1a54571b7/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp
+<a href="https://www.linkedin.com/in/apoorv-yadav-1a54571b7/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp
 <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'>
 </p>
 
@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 
 <!---
-amulya-ydv/amulya-ydv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ApoorvYdv/ApoorvYdv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
