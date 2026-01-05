@@ -1,9 +1,9 @@
 # Hello, Folks! Apoorv Here! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 1px> ✨
 - 👋 Hi, I’m Apoorv Yadav
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning React-native
-- 🤖 I'm a machine learning enthusiast.
-- 💞️ I’m looking to collaborate on app development.
+- 🌱 I’m currently working on fastapi
+- 🤖 I'm a machine learning enthusiast
+- 💞️ I’m looking to collaborate on app development
 - 📫 How to reach me apoorv.ydv17@gmail.com
 
 <p align='center'> <h2> Connect with me  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h2> </p>
